@@ -22,20 +22,22 @@
 
 [11.PAT-B1013.数素数](https://os-edu.github.io/posts/pat-b1013.%E6%95%B0%E7%B4%A0%E6%95%B0/)
 
-[12.PAT-B1016.部分A+B](https://os-edu.github.io/posts/pat-b1016/)
+[12.PAT-B1014.福尔摩斯的约会](https://os-edu.github.io/posts/pat-b1014.%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E7%9A%84%E7%BA%A6%E4%BC%9A/)
 
-[13.PAT-B1018.锤子剪刀布](https://os-edu.github.io/posts/pat_b1018/)
+[13.PAT-B1016.部分A+B](https://os-edu.github.io/posts/pat-b1016/)
 
-[14.PAT-B1022.D进制的A+B](https://os-edu.github.io/posts/pat-b1022.d-%E8%BF%9B%E5%88%B6%E7%9A%84-a-+-b/)
+[14.PAT-B1018.锤子剪刀布](https://os-edu.github.io/posts/pat_b1018/)
 
-[15.PAT-B1028.人口普查](https://os-edu.github.io/posts/pat-b1028/)
+[15.PAT-B1022.D进制的A+B](https://os-edu.github.io/posts/pat-b1022.d-%E8%BF%9B%E5%88%B6%E7%9A%84-a-+-b/)
 
-[16.PAT-B1030.完美数列](https://os-edu.github.io/posts/pat-a1030.%E5%AE%8C%E7%BE%8E%E6%95%B0%E5%88%97/)
+[16.PAT-B1028.人口普查](https://os-edu.github.io/posts/pat-b1028/)
 
-[17.PAT-B1032.挖掘机技术哪家强](https://os-edu.github.io/posts/pat-b1032.%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%93%AA%E5%AE%B6%E5%BC%BA/)
+[17.PAT-B1030.完美数列](https://os-edu.github.io/posts/pat-a1030.%E5%AE%8C%E7%BE%8E%E6%95%B0%E5%88%97/)
 
-[18.PAT-B1036.跟奥巴马一起编程](https://os-edu.github.io/posts/pat-b1036.%E8%B7%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%80%E8%B5%B7%E7%BC%96%E7%A8%8B/)
+[18.PAT-B1032.挖掘机技术哪家强](https://os-edu.github.io/posts/pat-b1032.%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%93%AA%E5%AE%B6%E5%BC%BA/)
 
-[19.PAT-B1041.考试座位号](https://os-edu.github.io/posts/pat-b1041/)
+[19.PAT-B1036.跟奥巴马一起编程](https://os-edu.github.io/posts/pat-b1036.%E8%B7%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%80%E8%B5%B7%E7%BC%96%E7%A8%8B/)
 
-[20.PAT-B1046.划拳](https://os-edu.github.io/posts/b1046/)
+[20.PAT-B1041.考试座位号](https://os-edu.github.io/posts/pat-b1041/)
+
+[21.PAT-B1046.划拳](https://os-edu.github.io/posts/b1046/)
