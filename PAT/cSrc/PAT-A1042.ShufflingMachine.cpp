@@ -25,9 +25,7 @@ int main()
         {
             start[i] = end[i];   // 把end数组赋值给start数组以供下次操作使用
         }
-
     }
-
     for(int i = 1; i <= N; i++)
     {
         if(i != 1)
