@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class PAT-A1046.ShortestDistance {
+public class Main {
     public static void main(String[] args) throws IOException { // 抛出 IO 异常
         // 定义一个缓冲输入流
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
